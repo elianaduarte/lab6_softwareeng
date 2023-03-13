@@ -1,4 +1,4 @@
-# Eliana Duarte Lab 6
+# Eliana Duarte Lab 6 Software Engineering
 
 def encode(password):
     encpass = ''
